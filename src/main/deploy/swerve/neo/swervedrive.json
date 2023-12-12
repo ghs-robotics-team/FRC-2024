@@ -1,0 +1,16 @@
+{
+  "maxSpeed": 14.5,
+  "optimalVoltage": 3,
+  "imu": {
+    "type": "pigeon2",
+    "id": 0,
+    "canbus": ""
+  },
+  "invertedIMU": false,
+  "modules": [
+    "frontleft.json",
+    "frontright.json",
+    "backleft.json",
+    "backright.json"
+  ]
+}
